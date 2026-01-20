@@ -472,6 +472,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=eNmv5SAAAAAJ&hl", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/mahsa-abdollahi-82742b123", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
