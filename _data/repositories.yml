@@ -1,6 +1,7 @@
-#github_users:
-  
+github_users:
+  - mahsa-abdollahi
 
-#repo_description_lines_max: 2
+repo_description_lines_max: 2
 
-#github_repos:
+github_repos:
+  - mahsa-abdollahi/my-repo
