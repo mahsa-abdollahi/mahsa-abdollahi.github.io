@@ -7,7 +7,6 @@ first_name: Mahsa
 middle_name:
 last_name: Abdollahi
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: # none
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
