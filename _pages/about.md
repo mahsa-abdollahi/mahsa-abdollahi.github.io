@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Montreal, QC</p>
 
 selected_papers: true
 social: true
