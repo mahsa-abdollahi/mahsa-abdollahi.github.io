@@ -3,5 +3,5 @@ github_users:
 
 repo_description_lines_max: 2
 
-github_repos:
-  - mahsa-abdollahi/my-rep
+#github_repos:
+  #- mahsa-abdollahi/my-repo
