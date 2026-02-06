@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-06'
 papers:
   eNmv5SAAAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -34,7 +34,7 @@ papers:
     title: Benchmarking Self-Supervised Audio Representations for IoT-Enabled Acoustic Beehive Monitoring
     year: '2025'
   eNmv5SAAAAAJ:u-x6o8ySG0sC:
-    citations: 59
+    citations: 60
     title: 'Forecasting Bitcoin returns with long short-term memory networks and wavelet decomposition: A comparison of several market determinants'
     year: '2022'
   eNmv5SAAAAAJ:u5HHmVD_uO8C:
