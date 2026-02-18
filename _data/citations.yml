@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-18'
 papers:
   eNmv5SAAAAAJ:2osOgNQ5qMEC:
-    citations: 19
+    citations: 20
     title: The Importance of Context Awareness in Acoustics-Based Automated Beehive Monitoring
     year: '2022'
   eNmv5SAAAAAJ:9yKSN-GCB0IC:
-    citations: 75
+    citations: 76
     title: 'Automated Beehive Acoustics Monitoring: A Comprehensive Review of the Literature and Recommendations for Future Work'
     year: '2022'
   eNmv5SAAAAAJ:IjCSPb-OGe4C:
@@ -21,27 +21,35 @@ papers:
     citations: 9
     title: 'UrBAN: Urban Beehive Acoustics and PheNotyping Dataset'
     year: '2025'
+  eNmv5SAAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: 'BioME: A Resource-Efficient Bioacoustic Foundational Model for IoT Applications'
+    year: '2026'
   eNmv5SAAAAAJ:Y0pCki6q_DkC:
     citations: 4
     title: Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings
     year: '2023'
   eNmv5SAAAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: Audio Modulation Spectral Features for Improved Honeybee Colony Population Prediction
     year: '2025'
   eNmv5SAAAAAJ:eQOLeE2rZwMC:
-    citations: 0
+    citations: 1
     title: Benchmarking Self-Supervised Audio Representations for IoT-Enabled Acoustic Beehive Monitoring
     year: '2025'
   eNmv5SAAAAAJ:u-x6o8ySG0sC:
-    citations: 60
+    citations: 61
     title: 'Forecasting Bitcoin returns with long short-term memory networks and wavelet decomposition: A comparison of several market determinants'
     year: '2022'
   eNmv5SAAAAAJ:u5HHmVD_uO8C:
     citations: 4
     title: 'A novel decomposition-forecasting approach towards Bitcoin price prediction: Hybrid of Theta-SVR'
     year: '2020'
+  eNmv5SAAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: On the Prediction of Varroa Mite Infestations in Honeybee Colonies via Acoustic Monitoring
+    year: Unknown Year
   eNmv5SAAAAAJ:zYLM7Y9cAGgC:
-    citations: 11
+    citations: 12
     title: 'MSPB: a longitudinal multi-sensor dataset with phenotypic trait measurements from honey bees'
     year: '2024'
