@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-23'
+  last_updated: '2026-03-02'
 papers:
   eNmv5SAAAAAJ:2osOgNQ5qMEC:
     citations: 21
@@ -48,7 +48,7 @@ papers:
   eNmv5SAAAAAJ:ufrVoPGSRksC:
     citations: 0
     title: On the Prediction of Varroa Mite Infestations in Honeybee Colonies via Acoustic Monitoring
-    year: Unknown Year
+    year: '2026'
   eNmv5SAAAAAJ:zYLM7Y9cAGgC:
     citations: 13
     title: 'MSPB: a longitudinal multi-sensor dataset with phenotypic trait measurements from honey bees'
