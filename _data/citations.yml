@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-03-02'
+  last_updated: '2026-04-01'
 papers:
   eNmv5SAAAAAJ:2osOgNQ5qMEC:
     citations: 21
     title: The Importance of Context Awareness in Acoustics-Based Automated Beehive Monitoring
     year: '2022'
   eNmv5SAAAAAJ:9yKSN-GCB0IC:
-    citations: 77
+    citations: 78
     title: 'Automated Beehive Acoustics Monitoring: A Comprehensive Review of the Literature and Recommendations for Future Work'
     year: '2022'
   eNmv5SAAAAAJ:IjCSPb-OGe4C:
-    citations: 4
+    citations: 5
     title: Performance Comparison of Voice Activity Detectors for Acoustic Beehive Monitoring
     year: '2023'
   eNmv5SAAAAAJ:Tyk-4Ss8FVUC:
@@ -42,7 +42,7 @@ papers:
     title: 'Forecasting Bitcoin returns with long short-term memory networks and wavelet decomposition: A comparison of several market determinants'
     year: '2022'
   eNmv5SAAAAAJ:u5HHmVD_uO8C:
-    citations: 4
+    citations: 5
     title: 'A novel decomposition-forecasting approach towards Bitcoin price prediction: Hybrid of Theta-SVR'
     year: '2020'
   eNmv5SAAAAAJ:ufrVoPGSRksC:
