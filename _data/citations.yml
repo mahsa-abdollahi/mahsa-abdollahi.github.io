@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-31'
 papers:
   eNmv5SAAAAAJ:2osOgNQ5qMEC:
-    citations: 23
+    citations: 24
     title: The Importance of Context Awareness in Acoustics-Based Automated Beehive Monitoring
     year: '2022'
   eNmv5SAAAAAJ:9yKSN-GCB0IC:
-    citations: 88
+    citations: 90
     title: 'Automated Beehive Acoustics Monitoring: A Comprehensive Review of the Literature and Recommendations for Future Work'
     year: '2022'
   eNmv5SAAAAAJ:IjCSPb-OGe4C:
@@ -14,11 +14,11 @@ papers:
     title: Performance Comparison of Voice Activity Detectors for Acoustic Beehive Monitoring
     year: '2023'
   eNmv5SAAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: Early prediction of honeybee hive winter survivability using multi-modal sensor data
     year: '2023'
   eNmv5SAAAAAJ:W7OEmFMy1HYC:
-    citations: 13
+    citations: 14
     title: 'UrBAN: Urban Beehive Acoustics and PheNotyping Dataset'
     year: '2025'
   eNmv5SAAAAAJ:WF5omc3nYNoC:
@@ -30,9 +30,13 @@ papers:
     title: Adapting Self-Supervised Features for Background Speech Detection in Beehive Audio Recordings
     year: '2023'
   eNmv5SAAAAAJ:YsMSGLbcyi4C:
-    citations: 2
+    citations: 4
     title: Audio Modulation Spectral Features for Improved Honeybee Colony Population Prediction
     year: '2025'
+  eNmv5SAAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: Improved Monitoring of Honey bee Colony Strength via Audio IoT Sensors, Modulation Tensorgrams and Recurrent Neural Networks
+    year: '2026'
   eNmv5SAAAAAJ:eQOLeE2rZwMC:
     citations: 2
     title: Benchmarking Self-Supervised Audio Representations for IoT-Enabled Acoustic Beehive Monitoring
@@ -46,10 +50,10 @@ papers:
     title: 'A novel decomposition-forecasting approach towards Bitcoin price prediction: Hybrid of Theta-SVR'
     year: '2020'
   eNmv5SAAAAAJ:ufrVoPGSRksC:
-    citations: 0
+    citations: 2
     title: On the Prediction of Varroa Mite Infestations in Honeybee Colonies via Acoustic Monitoring
     year: '2026'
   eNmv5SAAAAAJ:zYLM7Y9cAGgC:
-    citations: 18
+    citations: 19
     title: 'MSPB: a longitudinal multi-sensor dataset with phenotypic trait measurements from honey bees'
     year: '2024'
