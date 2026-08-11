@@ -476,7 +476,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/mahsa-abdollahi-82742b123", "_blank");
+          window.open("https://www.linkedin.com/in/mahsaabdollahi", "_blank");
         },
       },{
       id: 'light-theme',
